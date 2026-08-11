@@ -1,12 +1,26 @@
-Financial Analysis Project
+# Financial Analysis Projects
 
-These projects are based on an open-source financial model, with enhancements and analysis performed independently.
-Key Contributions:
-Conducted sensitivity analysis to evaluate the impact of key assumptions on financial outcomes
-Performed financial statement analysis for a 5-year planning model
-Built a Budget vs. Actual comparison using Excel functions such as VLOOKUP
-Applied valuation concepts as part of a professional valuation project
-Notes:
-Original model inspired by:
-https://github.com/IanMadlenya/finance-excel
-https://github.com/louiewee
+This repository contains financial analysis projects based on open-source financial models, with additional analysis and enhancements completed independently.
+
+## Key Contributions
+
+- Conducted sensitivity analysis to evaluate the impact of key assumptions on financial outcomes
+- Performed financial statement analysis using a 5-year planning model
+- Built a Budget vs. Actual analysis in Excel using functions such as VLOOKUP
+- Applied financial valuation concepts in a professional valuation project
+
+## Tools & Skills
+
+- Microsoft Excel
+- Financial Modeling
+- Financial Statement Analysis
+- Budget vs. Actual Analysis
+- Sensitivity Analysis
+- Valuation
+
+## Credits
+
+Some of the original models used in these projects were inspired by or adapted from the following open-source repositories:
+
+- IanMadlenya — finance-excel
+- louiewee — financial modeling resources
